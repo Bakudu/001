@@ -1,0 +1,63 @@
+/*
+    FPIT1064 Web Development
+    
+    Starting Page of Mobile Panini
+    Name:Tay Ting Xuan
+    Date:6/12/2022
+
+    Filename: mp_style.css
+*/
+
+header{
+    text-align: center;
+    padding: 1.2em;
+}
+
+body{
+    background-color: #FFCCFF;
+    text-emphasis-color: #003366;
+}
+
+h1{
+    line-height: 2em;
+    text-align: center;
+    background-color: #8C87BA;
+    text-decoration-color: #FFFFFF;
+}
+
+nav{
+    text-align: center;
+    background-color: #4D6194;
+    text-decoration: bold;
+    font-weight: bold;
+    font-size:2em;    
+}
+
+nav ul, nav a {
+    color: #FFCCFF;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+nav a:hover {
+	color: #ff00f2;
+}
+
+nav li{
+    display: inline;
+    margin: 0px 5px 0px 5px;
+}
+
+#mph{
+    padding: 15px;
+}
+
+footer{
+    background-color: #4D6194;
+    font-size: .60em;
+    text-emphasis-color: #FFCCFF;
+    font-style: italic;
+    text-align: center;
+}
+
+
